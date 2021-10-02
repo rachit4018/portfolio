@@ -1,12 +1,7 @@
-/*
- *	jQuery OwlCarousel v1.31
- *
- *	Copyright (c) 2013 Bartosz Wojciechowski
- *	http://www.owlgraphic.com/owlcarousel/
- *
- *	Licensed under MIT
- *
- */
+/*file name : owl.caraousal.css
+Student name: Rachit Pandya
+Student id:301198260
+Date:2/10/2021*/
 
 if ( typeof Object.create !== "function" ) {
 	Object.create = function( obj ) {

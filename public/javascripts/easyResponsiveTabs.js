@@ -1,5 +1,7 @@
-// Easy Responsive Tabs Plugin
-// Author: Samson.Onna <Email : samson3d@gmail.com>
+/*file name : owl.caraousal.css
+Student name: Rachit Pandya
+Student id:301198260
+Date:2/10/2021*/
 (function ($) {
     $.fn.extend({
         easyResponsiveTabs: function (options) {
