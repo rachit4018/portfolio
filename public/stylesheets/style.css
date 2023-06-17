@@ -482,10 +482,9 @@ span.border.one:after {
 .about-right{
 	    float: left;
 	padding:0;
-	background:url(../images/img4.jpeg) no-repeat 0px 0px;
+	background:url(../images/About4.png) no-repeat 0px 0px;
 	min-height:580px;
 	background-size: cover;
-   -o-background-size: cover;
    -webkit-background-size: cover;
    -moz-background-size: cover;
    -ms-background-size: cover;
@@ -772,16 +771,16 @@ ul.year li {
     display: block;
 }
 ul.year li:nth-child(2){
-	    margin-top: 119px;
+	    margin-top: 90px;
 }
 ul.year li:nth-child(3){
-	    margin-top: 150px;
+	    margin-top: 238px;
 }
 ul.year li:nth-child(4){
-	    margin-top: 160px;
+	    margin-top: 100px;
 }
 ul.year li:nth-child(5){
-	    margin-top: 135px;
+	    margin-top: 170px;
 }
 .timeline-badge.success i {
     font-size: 0.9em;
